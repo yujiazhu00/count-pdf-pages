@@ -1,5 +1,6 @@
 import PyPDF4
 import os
+import openpyxl
 import re
 
 # the sorted_alphanumeric function is taken from https://stackoverflow.com/questions/4836710/is-there-a-built-in-function-for-string-natural-sort
